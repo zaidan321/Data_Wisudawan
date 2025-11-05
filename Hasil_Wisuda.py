@@ -152,3 +152,5 @@ except ValueError as e:
 
 except Exception as e:
     print(f"❌ Terjadi kesalahan tak terduga: {e}")
+
+print("bagus")
